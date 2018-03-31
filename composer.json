@@ -12,6 +12,7 @@
         "laravelcollective/html":"^5.4.0",
         "davejamesmiller/laravel-breadcrumbs":"*"
     },
+    "minimum-stability": "dev",
     "autoload": {
 
         "psr-4": {
