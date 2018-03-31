@@ -1,0 +1,25 @@
+{
+    "name": "IvanLukashov/test",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lukashov",
+            "email": "vanjamaya@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "laravelcollective/html":"^5.4.0",
+        "davejamesmiller/laravel-breadcrumbs":"*"
+    },
+    "autoload": {
+
+        "psr-4": {
+
+            "Test\\Example\\": "src/"
+
+        }
+
+    }
+}
